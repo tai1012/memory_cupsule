@@ -1,0 +1,2 @@
+class NoticeFav < ApplicationRecord
+end

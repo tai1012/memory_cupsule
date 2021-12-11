@@ -1,0 +1,2 @@
+class NoticeReply < ApplicationRecord
+end

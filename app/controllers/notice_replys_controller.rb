@@ -1,0 +1,2 @@
+class NoticeReplysController < ApplicationController
+end
